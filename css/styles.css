@@ -11421,12 +11421,26 @@ header.masthead h1, header.masthead .h1 {
   }
 }
 
-#portfolio .container-fluid, #portfolio .container-sm, #portfolio .container-md, #portfolio .container-lg, #portfolio .container-xl, #portfolio .container-xxl {
+#portfolio .container-fluid, 
+#portfolio .container-sm, 
+#portfolio .container-md, 
+#portfolio .container-lg, 
+#portfolio .container-xl, 
+#portfolio .container-xxl {
   max-width: 1920px;
 }
-#portfolio .container-fluid .portfolio-box, #portfolio .container-sm .portfolio-box, #portfolio .container-md .portfolio-box, #portfolio .container-lg .portfolio-box, #portfolio .container-xl .portfolio-box, #portfolio .container-xxl .portfolio-box {
+#portfolio .container-fluid .portfolio-box, 
+#portfolio .container-sm .portfolio-box, 
+#portfolio .container-md .portfolio-box, 
+#portfolio .container-lg .portfolio-box, 
+#portfolio .container-xl .portfolio-box, 
+#portfolio .container-xxl .portfolio-box,
+.portfolio-box-link {
   position: relative;
   display: block;
+}
+.portfolio-box-link {
+  height: 100%;
 }
 #portfolio .container-fluid .portfolio-box .portfolio-box-caption, 
 #portfolio .container-sm .portfolio-box .portfolio-box-caption, 
