@@ -5,12 +5,17 @@ A work in progress by Dr Alex Kirkup.
 <table>
 <tr>
   <td>
-    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>Kaggle: Emergency 911 call EDA</a>
+    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>Emergency 911 call EDA (Kaggle)</a>
   </td>
 </tr>
 <tr>
   <td>
-    Project 2
+    <a href='https://medium.com/@alex.kirkup/web-scraping-2023-data-science-jobs-listings-to-extract-the-key-skills-required-2359bfab176e'>Web scraping 2023 data science jobs on Indeed to extract the key skills required (Medium)</a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <a href='#'>9 visualisations</a>
   </td>
 </tr>
 </table>
