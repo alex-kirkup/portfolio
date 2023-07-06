@@ -5,7 +5,7 @@ A work in progress by Dr Alex Kirkup.
 <table>
 <tr>
   <td>
-    **[Medium](https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda)**
+    [Kaggle: Emergency 911 call EDA](https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda)
   </td>
 </tr>
 <tr>
