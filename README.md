@@ -2,6 +2,8 @@
 A work in progress by Dr Alex Kirkup.
 
 ## Data analysis and visualization
+<details>
+<summary>Click here</summary>
 <table>
 <tr>
   <td>
@@ -24,6 +26,7 @@ A work in progress by Dr Alex Kirkup.
   </td>
 </tr>
 </table>
+</details>
 
 ## Supervised learning
 <table>
