@@ -3,7 +3,9 @@ A work in progress by Dr Alex Kirkup.
 
 
 <details>
-<summary><h1>Data analysis and visualization</h1></summary>
+<summary>
+## Data analysis and visualization
+</summary>
 <table>
 <tr>
   <td>
