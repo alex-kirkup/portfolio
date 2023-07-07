@@ -2,10 +2,7 @@
 A work in progress by Dr Alex Kirkup.
 
 
-<details>
-<summary>
-## Data analysis and visualization
-</summary>
+<details><summary><h3>Data analysis and visualization</h3></summary>
 <table>
 <tr>
   <td>
