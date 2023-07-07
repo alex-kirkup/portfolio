@@ -1,9 +1,9 @@
 # Full-stack data science portfolio
 A work in progress by Dr Alex Kirkup.
 
-## Data analysis and visualization
+
 <details>
-<summary>Click here</summary>
+<summary><h1>Data analysis and visualization</h1></summary>
 <table>
 <tr>
   <td>
