@@ -2,13 +2,13 @@
 A work in progress by Dr Alex Kirkup.
 
 ### Contents
-<a href="#EDA">1. Data analysis and visualization</a>
-<a href="#SL">2. Supervised learning</a>
-<a href="#UL">3 Unsupervised learning</a>
-<a href="#DEEP">4. Deep learning</a>
-<a href="#NLT">5. NLT</a>
-<a href="#PYTHON">6. Python, Django, SQL, Databases</a>
-<a href="#VBA">7. Excel/VBA</a>
+<p><a href="#EDA">1. Data analysis and visualization</a>
+<p><a href="#SL">2. Supervised learning</a>
+<p><a href="#UL">3 Unsupervised learning</a>
+<p><a href="#DEEP">4. Deep learning</a>
+<p><a href="#NLT">5. NLT</a>
+<p><a href="#PYTHON">6. Python, Django, SQL, Databases</a>
+<p><a href="#VBA">7. Excel/VBA</a>
 
 
 <a name="EDA"></a>
@@ -85,6 +85,7 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
   
+<a name="NLT"></a>
 <details><summary><h3>NLT</h3></summary>
 <table>
 <tr>
