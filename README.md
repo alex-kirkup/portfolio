@@ -1,14 +1,12 @@
 # Full-stack data science portfolio
 A work in progress by Dr Alex Kirkup.
 
+<a href="D">Here</a>
 
+
+<a name="A"></a>
 <details><summary><h3>Data analysis and visualization</h3></summary>
 <table>
-<tr>
-  <td>
-    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>Emergency 911 call EDA (Kaggle)</a>
-  </td>
-</tr>
 <tr>
   <td>
     <a href='https://medium.com/@alex.kirkup/web-scraping-2023-data-science-jobs-listings-to-extract-the-key-skills-required-2359bfab176e'>Web scraping 2023 data science jobs on Indeed to extract the key skills required (Medium)</a>
@@ -24,10 +22,15 @@ A work in progress by Dr Alex Kirkup.
     <a href='https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9'>Seaborn doesn’t like dates: using date ordinals instead (Medium)</a>
   </td>
 </tr>
+<tr>
+  <td>
+    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>Emergency 911 call EDA (Kaggle)</a>
+  </td>
+</tr>
 </table>
 </details>
 
-## Supervised learning
+<details><summary><h3>Supervised learning</h3></summary>
 <table>
 <tr>
   <td>
@@ -40,8 +43,9 @@ A work in progress by Dr Alex Kirkup.
   </td>
 </tr>
 </table>
+</details>
 
-## Unsupervised learning
+<details><summary><h3>Unsupervised learning</h3></summary>
 <table>
 <tr>
   <td>
@@ -54,8 +58,9 @@ A work in progress by Dr Alex Kirkup.
   </td>
 </tr>
 </table>
+</details>
 
-## Deep learning
+<details><summary><h3>Deep learning</h3></summary>
 <table>
 <tr>
   <td>
@@ -67,8 +72,10 @@ A work in progress by Dr Alex Kirkup.
     Project 2
   </td>
 </tr>
+</table>
+</details>
   
-## NLT
+<details><summary><h3>NLT</h3></summary>
 <table>
 <tr>
   <td>
@@ -81,9 +88,9 @@ A work in progress by Dr Alex Kirkup.
   </td>
 </tr>
 </table>
-</table>
+</details>
 
-## Python, Django, SQL, Databases
+<details><summary><h3>Python, Django, SQL, Databases</h3></summary>
 <table>
 <tr>
   <td>
@@ -121,8 +128,10 @@ A work in progress by Dr Alex Kirkup.
   </td>
 </tr>
 </table>
+</details>
 
-## Excel, VBA
+<a name="D"></a>
+<details><summary><h3>Excel, VBA</h3></summary>
 <table>
 <tr>
   <td>
@@ -135,4 +144,4 @@ A work in progress by Dr Alex Kirkup.
   </td>
 </tr>
 </table>
-</table>
+</details>
