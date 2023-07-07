@@ -1,10 +1,17 @@
 # Full-stack data science portfolio
 A work in progress by Dr Alex Kirkup.
 
-<a href="#D">Here</a>
+### Contents
+<a href="#EDA">1. Data analysis and visualization</a>
+<a href="#SL">2. Supervised learning</a>
+<a href="#UL">3 Unsupervised learning</a>
+<a href="#DEEP">4. Deep learning</a>
+<a href="#NLT">5. NLT</a>
+<a href="#PYTHON">6. Python, Django, SQL, Databases</a>
+<a href="#VBA">7. Excel/VBA</a>
 
 
-<a name="A"></a>
+<a name="EDA"></a>
 <details><summary><h3>Data analysis and visualization</h3></summary>
 <table>
 <tr>
@@ -30,6 +37,7 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
 
+<a name="SL"></a>
 <details><summary><h3>Supervised learning</h3></summary>
 <table>
 <tr>
@@ -45,6 +53,7 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
 
+<a name="UL"></a>
 <details><summary><h3>Unsupervised learning</h3></summary>
 <table>
 <tr>
@@ -60,6 +69,7 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
 
+<a name="DEEP"></a>
 <details><summary><h3>Deep learning</h3></summary>
 <table>
 <tr>
@@ -90,6 +100,7 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
 
+<a name="PYTHON"></a>
 <details><summary><h3>Python, Django, SQL, Databases</h3></summary>
 <table>
 <tr>
@@ -130,7 +141,7 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
 
-<a name="D"></a>
+<a name="VBA"></a>
 <details><summary><h3>Excel, VBA</h3></summary>
 <table>
 <tr>
