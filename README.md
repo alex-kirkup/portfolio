@@ -1,14 +1,24 @@
 # Full-stack data science portfolio
-A work in progress by Dr Alex Kirkup.
+A work in progress by Dr Alex Kirkup. \
+Here you will find my code repositories, notebooks and blog posts as I develop as a full-stack data scientist.
+
+
+
 
 ### Contents
-<p><a href="#EDA">1. Data analysis and visualization</a>
-<p><a href="#SL">2. Supervised learning</a>
-<p><a href="#UL">3 Unsupervised learning</a>
-<p><a href="#DEEP">4. Deep learning</a>
-<p><a href="#NLT">5. NLT</a>
-<p><a href="#PYTHON">6. Python, Django, SQL, Databases</a>
-<p><a href="#VBA">7. Excel/VBA</a>
+1. <a href="#EDA">Data analysis and visualization</a>
+2. <a href="#SL">Supervised learning</a>
+3. <a href="#UL">Unsupervised learning</a>
+4. <a href="#DEEP">Deep learning</a>
+5. <a href="#NLT">NLT</a>
+6. <a href="#PYTHON">Python, Django, SQL, Databases</a>
+7. <a href="#VBA">Excel/VBA</a>
+<br>
+<hr>
+
+
+
+
 
 
 <a name="EDA"></a>
@@ -31,18 +41,23 @@ A work in progress by Dr Alex Kirkup.
 </tr>
 <tr>
   <td>
-    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>Emergency 911 call EDA (Kaggle)</a>
+    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>A geo-spatial Exploratory Data Analysis of the emergency 911 call dataset from Montgomery County, PA, using Pandas, NumPy, Seaborn, Folium and Scikit Learn (Kaggle Notebook)</a>
   </td>
 </tr>
 </table>
 </details>
+
+
+
+
+
 
 <a name="SL"></a>
 <details><summary><h3>Supervised learning</h3></summary>
 <table>
 <tr>
   <td>
-    Project 1
+    <a href='Predicting GCSE Grades'>Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn (Jupyter Notebook)</a>
   </td>
 </tr>
 <tr>
@@ -52,6 +67,11 @@ A work in progress by Dr Alex Kirkup.
 </tr>
 </table>
 </details>
+
+
+
+
+
 
 <a name="UL"></a>
 <details><summary><h3>Unsupervised learning</h3></summary>
@@ -69,6 +89,11 @@ A work in progress by Dr Alex Kirkup.
 </table>
 </details>
 
+
+
+
+
+
 <a name="DEEP"></a>
 <details><summary><h3>Deep learning</h3></summary>
 <table>
@@ -84,6 +109,11 @@ A work in progress by Dr Alex Kirkup.
 </tr>
 </table>
 </details>
+
+
+
+
+
   
 <a name="NLT"></a>
 <details><summary><h3>NLT</h3></summary>
@@ -100,6 +130,11 @@ A work in progress by Dr Alex Kirkup.
 </tr>
 </table>
 </details>
+
+
+
+
+
 
 <a name="PYTHON"></a>
 <details><summary><h3>Python, Django, SQL, Databases</h3></summary>
@@ -141,6 +176,11 @@ A work in progress by Dr Alex Kirkup.
 </tr>
 </table>
 </details>
+
+
+
+
+
 
 <a name="VBA"></a>
 <details><summary><h3>Excel, VBA</h3></summary>
