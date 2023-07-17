@@ -57,7 +57,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 <table>
 <tr>
   <td>
-    <a href='Predicting GCSE Grades'>Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn (Jupyter Notebook)</a>
+    <a href='Project - GCSE Prediction\Predicting GCSE grades.ipynb'>Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn (Jupyter Notebook)</a>
   </td>
 </tr>
 <tr>
