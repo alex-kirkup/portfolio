@@ -47,7 +47,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
-    <img src='Project - web scraping indeed.com/web_scraping.JPG' height = 40>
+    <img src='Medium - Seaborn date ordinals/Seaborn date ordinals.JPG' height = 40>
   </td>
   <td>
     <a href='https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9'>
