@@ -37,11 +37,11 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
-    <img src='Project - web scraping indeed.com/web_scraping.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
   </td>
   <td>
     <a href='#'>
-      9 visualisations
+      9 awesome visualizations (work in progress)
     </a>
   </td>
 </tr>
@@ -57,7 +57,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
-    <img src='Project - web scraping indeed.com/web_scraping.JPG' height = 40>
+    <img src='Medium - Geospatial EDA 911 calls/logo 2.JPG' height = 40>
   </td>
   <td>
     <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>
