@@ -6,7 +6,8 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 
 
 ### Contents
-1. <a href="#EDA">Data analysis and visualization</a>
+1. <a href="#EDA">Data collection and data analysis</a>
+1. <a href="#Viz">Data visualization</a>
 2. <a href="#SL">Supervised learning</a>
 3. <a href="#UL">Unsupervised learning</a>
 4. <a href="#DEEP">Deep learning</a>
@@ -22,7 +23,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 
 
 <a name="EDA"></a>
-<details><summary><h3>Data analysis and visualization</h3></summary>
+<details><summary><h3>Data collection and data analysis</h3></summary>
 <table>
 <tr>
   <td>
@@ -37,11 +38,42 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
+    <img src='Medium - Seaborn date ordinals/Seaborn date ordinals.JPG' height = 40>
+  </td>
+  <td>
+    <a href='https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9'>
+      Seaborn doesn’t like dates: using date ordinals instead (Medium)
+    </a>
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src='Medium - Geospatial EDA 911 calls/logo 2.JPG' height = 40>
+  </td>
+  <td>
+    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>
+      A geo-spatial Exploratory Data Analysis of the emergency 911 call dataset from Montgomery County, PA, using Pandas, NumPy, Seaborn, Folium and Scikit Learn (Kaggle Notebook)
+    </a>
+  </td>
+</tr>
+</table>
+</details>
+
+
+
+
+
+
+<a name="Viz"></a>
+<details><summary><h3>Data visualization</h3></summary>
+<table>
+<tr>
+  <td>
     <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
   </td>
   <td>
     <a href='#'>
-      9 awesome visualizations (work in progress)
+      1. An interactive line graph showing differences in global temperature from the 1961-1990 average using Plotly Express (Notebook)
     </a>
   </td>
 </tr>
@@ -67,6 +99,8 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 </table>
 </details>
+
+
 
 
 
