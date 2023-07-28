@@ -72,27 +72,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
   </td>
   <td>
     1. An interactive line graph showing differences in global temperature from the 1961-1990 average using Plotly Express
-    (<a href='Project - 9 visualizations/1. Global Temperature.ipyn'>Notebook</a>)
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src='Medium - Seaborn date ordinals/Seaborn date ordinals.JPG' height = 40>
-  </td>
-  <td>
-    <a href='https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9'>
-      Seaborn doesn’t like dates: using date ordinals instead (Medium)
-    </a>
-  </td>
-</tr>
-<tr>
-  <td>
-    <img src='Medium - Geospatial EDA 911 calls/logo 2.JPG' height = 40>
-  </td>
-  <td>
-    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>
-      A geo-spatial Exploratory Data Analysis of the emergency 911 call dataset from Montgomery County, PA, using Pandas, NumPy, Seaborn, Folium and Scikit Learn (Kaggle Notebook)
-    </a>
+    (<a href='Project - 9 visualizations/1. Global Temperature.ipynb'>Notebook</a>)
   </td>
 </tr>
 </table>
@@ -110,10 +90,17 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 <table>
 <tr>
   <td>
-    <a href='Project - GCSE Prediction\Predicting GCSE grades.ipynb'>Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn (Jupyter Notebook)</a>
+    <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
+  </td>
+  <td>
+    Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn
+    (<a href='Project - GCSE Prediction\Predicting GCSE grades.ipynb'>Jupyter Notebook</a>
   </td>
 </tr>
 <tr>
+  <td>
+    <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
+  </td>
   <td>
     Project 2
   </td>
