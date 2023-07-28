@@ -80,7 +80,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 2.JPG' height = 40>
   </td>
   <td>
-    1. A Scatter Bubble Plot showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
+    2. A Scatter Bubble Plot showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
     (<a href='Project - 9 visualizations/2. Scatter.ipynb'>Notebook</a>)
   </td>
 </tr>
