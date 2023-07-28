@@ -33,7 +33,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     Web scraping 2023 data science jobs on Indeed to extract the key skills required
     <br>
     (<a href='https://medium.com/@alex.kirkup/web-scraping-2023-data-science-jobs-listings-to-extract-the-key-skills-required-2359bfab176e'>Medium</a>)
-    (<a href='Project - web scraping indeed.com'>Project on GitHub</a>)
+    (<a href='Project - web scraping indeed.com'>GitHub Project</a>)
   </td>
 </tr>
 <tr>
@@ -41,9 +41,9 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Medium - Seaborn date ordinals/Seaborn date ordinals.JPG' height = 40>
   </td>
   <td>
-    <a href='https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9'>
-      Seaborn doesn’t like dates: using date ordinals instead (Medium)
-    </a>
+    Seaborn doesn’t like dates: using date ordinals instead
+    <br>
+    (<a href='https://medium.com/@alex.kirkup/seaborn-doesnt-like-dates-using-date-ordinals-instead-36f7ad4900d9'>Medium</a>)
   </td>
 </tr>
 <tr>
@@ -51,9 +51,8 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Medium - Geospatial EDA 911 calls/logo 2.JPG' height = 40>
   </td>
   <td>
-    <a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>
-      A geo-spatial Exploratory Data Analysis of the emergency 911 call dataset from Montgomery County, PA, using Pandas, NumPy, Seaborn, Folium and Scikit Learn (Kaggle Notebook)
-    </a>
+    A geo-spatial Exploratory Data Analysis of the emergency 911 call dataset from Montgomery County, PA, using Pandas, NumPy, Seaborn, Folium and Scikit Learn
+    (<a href='https://www.kaggle.com/code/alexkirkup/emergency-911-call-eda'>Kaggle Notebook</a>)
   </td>
 </tr>
 </table>
