@@ -71,9 +71,8 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
   </td>
   <td>
-    <a href='#'>
-      1. An interactive line graph showing differences in global temperature from the 1961-1990 average using Plotly Express (Notebook)
-    </a>
+    1. An interactive line graph showing differences in global temperature from the 1961-1990 average using Plotly Express
+    (<a href='Project - 9 visualizations/1. Global Temperature.ipyn'>Notebook</a>)
   </td>
 </tr>
 <tr>
