@@ -84,6 +84,15 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     (<a href='Project - 9 visualizations/2. Scatter.ipynb'>Notebook</a>)
   </td>
 </tr>
+<tr>
+  <td>
+    <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
+  </td>
+  <td>S
+    3. An Interactive Sunbunrst Chartshowing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
+    (<a href='Project - 9 visualizations/2. Scatter.ipynb'>Notebook</a>)
+  </td>
+</tr>
 </table>
 </details>
 
@@ -108,10 +117,11 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
-    <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
   </td>
   <td>
-    Project 2
+    Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn
+    (<a href='Project - GCSE Pre\ddiction\Predicting GCSE grades.ipynb'>Jupyter Notebook</a>
   </td>
 </tr>
 </table>
@@ -192,7 +202,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
   <td>
     <a href='https://medium.com/@alex.kirkup/clean-a-kaggle-dataset-with-pandas-and-insert-into-a-django-database-using-python-3e2ecbcbdc7f'>Clean a Kaggle dataset with Pandas and insert into a Django database using Python (Medium)</a>
   </td>
-</tr>
+</tr>vvvvv
 <tr>
   <td>
     <a href='https://medium.com/@alex.kirkup/a-generic-csv-importer-for-any-django-model-part-1-17159b010c7b'>A generic CSV importer for any Django model, part 1 (Medium)</a>
