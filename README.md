@@ -80,7 +80,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 2.JPG' height = 40>
   </td>
   <td>
-    2. A Scatter Bubble Plot showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
+    2. A Scatter Bubble Plot showing geographical distributions r and visualizing population exploring 
     (<a href='Project - 9 visualizations/2. Scatter.ipynb'>Notebook</a>)
   </td>
 </tr>
@@ -89,8 +89,8 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
   </td>
   <td>S
-    3. An Interactive Sunbunrst Chartshowing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
-    (<a href='Project - 9 visualizations/2. Scatter.ipynb'>Notebook</a>)
+    3. An Interactive Sunbunrst Chart showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
+    (<a href='Project - 9 visualizations/3. Sunburst.ipynb'>Notebook</a>)
   </td>
 </tr>
 </table>
