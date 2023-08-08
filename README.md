@@ -89,7 +89,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - visualizations/logo 3.JPG' height = 40>
   </td>
   <td>
-    3. An Interactive Sunbunrst Chart showing Hierarchical Data using Plotly Express - an example using geological data
+    3. An Interactive Sunbunrst Chart showing hierarchical data using Plotly Express - an example using geological data
     (<a href='Project - 9 visualizations/3. Sunburst.ipynb'>Notebook</a>)
   </td>
 </tr>
