@@ -107,7 +107,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 5.JPG' height = 40>
   </td>
   <td>
-    5.Compare stock prices using Bokeh
+    5.Compare stock prices interactively using Bokeh
     (<a href='Project - visualizations/5. Compare stock prices interactive.ipynb'>Notebook</a>)
   </td>
 </tr>
