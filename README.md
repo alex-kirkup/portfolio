@@ -68,20 +68,20 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 <table>
 <tr>
   <td>
-    <img src='Project - visualizations/logo 1.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 1.JPG' height = 40>
   </td>
   <td>
     1. An interactive line graph showing differences in global temperature from the 1961-1990 average using Plotly Express
-    (<a href='Project - visualizations/1. Global Temperature.ipynb'>Notebook</a>)
+    (<a href='Project - 9 visualizations/1. Global Temperature.ipynb'>Notebook</a>)
   </td>
 </tr>
 <tr>
   <td>
-    <img src='Project - visualizations/logo 2.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 2.JPG' height = 40>
   </td>
   <td>
     2. A Scatter Bubble Plot showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
-    (<a href='Project - visualizations/2. Scatter.ipynb'>Notebook</a>)
+    (<a href='Project - 9 visualizations/2. Scatter.ipynb'>Notebook</a>)
   </td>
 </tr>
 <tr>
@@ -90,12 +90,12 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
   </td>
   <td>S
     3. An Interactive Sunbunrst Chart showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
-    (<a href='Project - visualizations/3. Sunburst.ipynb'>Notebook</a>)
+    (<a href='Project - 9 visualizations/3. Sunburst.ipynb'>Notebook</a>)
   </td>
 </tr>
 <tr>
   <td>
-    <img src='Project - visualizations/logo 4.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 4.JPG' height = 40>
   </td>
   <td>S
     3. A month in the life of my bank accout using a Plotly Waterfall chart
