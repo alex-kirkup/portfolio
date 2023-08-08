@@ -77,7 +77,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
-    <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 2.JPG' height = 40>
   </td>
   <td>
     2. A Scatter Bubble Plot showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
@@ -86,7 +86,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
 </tr>
 <tr>
   <td>
-    <img src='Project - visualizations/logo 3.JPG' height = 40>
+    <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
   </td>
   <td>
     3. An Interactive Sunbunrst Chart showing hierarchical data using Plotly Express - an example using geological data
@@ -107,7 +107,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 5.JPG' height = 40>
   </td>
   <td>
-    5.Compare stock prices interactively using Bokeh
+    5. Compare stock prices interactively using Bokeh
     (<a href='Project - visualizations/5. Compare stock prices interactive.ipynb'>Notebook</a>)
   </td>
 </tr>
