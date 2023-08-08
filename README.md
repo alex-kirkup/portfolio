@@ -88,7 +88,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
   <td>
     <img src='Project - visualizations/logo 3.JPG' height = 40>
   </td>
-  <td>S
+  <td>
     3. An Interactive Sunbunrst Chart showing Life Expectancy against GDP per capita and visualizing population - improving on a Plotly example
     (<a href='Project - 9 visualizations/3. Sunburst.ipynb'>Notebook</a>)
   </td>
@@ -97,9 +97,18 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
   <td>
     <img src='Project - 9 visualizations/logo 4.JPG' height = 40>
   </td>
-  <td>S
-    3. A month in the life of my bank accout using a Plotly Waterfall chart
+  <td>
+    4. A month in the life of my bank accout using a Plotly Waterfall chart
     (<a href='Project - visualizations/4. Waterfall.ipynb'>Notebook</a>)
+  </td>
+</tr>
+<tr>
+  <td>
+    <img src='Project - 9 visualizations/logo 5.JPG' height = 40>
+  </td>
+  <td>
+    5.Compare stock prices using Bokeh
+    (<a href='Project - visualizations/5. Compare stock prices interactive.ipynb'>Notebook</a>)
   </td>
 </tr>
 </table>
