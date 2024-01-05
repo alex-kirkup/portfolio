@@ -138,8 +138,8 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
   </td>
   <td>
-    Predicting GCSE grades from prior assessments: Classification model spot-checking using Scikit-Learn
-    (<a href='Project - GCSE Pre\ddiction\Predicting GCSE grades.ipynb'>Jupyter Notebook</a>
+    Project 2
+    (<a href='#'>Jupyter Notebook</a>
   </td>
 </tr>
 </table>
