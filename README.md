@@ -108,7 +108,7 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
   </td>
   <td>
     5. Compare stock prices interactively using Bokeh
-    (<a href='Project - visualizations/5. Compare stock prices interactive.ipynb'>Notebook</a>)
+    (<a href='Project - 9 visualizations/5. Compare stock prices interactive.ipynb'>Notebook</a>)
   </td>
 </tr>
 </table>
