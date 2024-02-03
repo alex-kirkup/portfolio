@@ -138,8 +138,11 @@ Here you will find my code repositories, notebooks and blog posts as I develop a
     <img src='Project - 9 visualizations/logo 3.JPG' height = 40>
   </td>
   <td>
-    Project 2
-    (<a href='#'>Jupyter Notebook</a>
+    Regression analysis using Scikit-Learn and mlxtend: an experiment in improving upon a baseline
+    (Medium posts
+    <a href='https://medium.com/@alex.kirkup/ideas-to-improve-your-regression-1-treat-linear-regression-as-a-baseline-d55d1b0eacc5'>#1 Baseline</a>, 
+    <a href='https://medium.com/@alex.kirkup/ideas-to-improve-your-regression-1-treat-linear-regression-as-a-baseline-d55d1b0eacc5](https://medium.com/@alex.kirkup/ideas-to-improve-regression-analysis-2-feature-selection-218225a9ed1c'>#2 Feature selection</a>
+    )
   </td>
 </tr>
 </table>
